@@ -42,7 +42,9 @@ Dashboard 1 focuses on customer demographics, profitability trends over time, an
 - **Return Rate Mitigation**: Conduct quality audits for Energy Drinks and solicit customer feedback to address the 9% return rate, aiming to reduce refunds by 15% and enhance net profitability.
 
 ### Screenshot
-![Dashboard 1 Screenshot](screenshots/dashboard1_customer_product_analysis.png)
+![Dashboard 1 Screenshot](https://github.com/Gaurav-tech229/Sales-Analytics/blob/main/Dashboards/profitview.png)
+
+![Dashboard 1 Screenshot](https://github.com/Gaurav-tech229/Sales-Analytics/blob/main/Dashboards/top.png)
 
 ## Dashboard 2: Store Budget vs. Revenue Analysis
 
@@ -66,7 +68,7 @@ Dashboard 2 compares store revenue against monthly targets and provides a month-
 - **Performance Incentives**: Introduce performance-based incentives for sales teams in underperforming stores to boost motivation and align with top performers, aiming for a 15% revenue increase.
 
 ### Screenshot
-![Dashboard 2 Screenshot](screenshots/dashboard2_store_budget_revenue.png)
+![Dashboard 2 Screenshot](https://github.com/Gaurav-tech229/Sales-Analytics/blob/main/Dashboards/store.png)
 
 ## Dashboard 3: Revenue Performance Analysis
 
@@ -91,4 +93,4 @@ Dashboard 3 provides insights into quarterly revenue performance, weekday vs. we
 - **Category Focus**: Prioritize stocking Sports Drinks and Soft Drinks in Q4 across all stores, as they drive December revenue spikes, to maximize sales and achieve a 12% revenue uplift.
 
 ### Screenshot
-![Dashboard 3 Screenshot](screenshots/dashboard3_revenue_performance.png)
+![Dashboard 3 Screenshot](https://github.com/Gaurav-tech229/Sales-Analytics/blob/main/Dashboards/timeframe.png)
