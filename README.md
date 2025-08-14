@@ -96,3 +96,5 @@ Dashboard 3 provides insights into quarterly revenue performance, weekday vs. we
 
 ### Screenshot
 ![Dashboard 3 Screenshot](https://github.com/Gaurav-tech229/Sales-Analytics/blob/main/Dashboards/timeframe.png)
+
+---
