@@ -17,6 +17,8 @@ This project encompasses three dashboards designed to analyze sales performance,
 - **Monthly Store Targets (monthly_store_targets.csv)**: Provides store-specific monthly revenue targets for 2023, used to evaluate store performance and identify variances, such as Store 4’s 27% shortfall in October.
 - **Dashboard Sales Design (Dashboard Sales Design.xlsx)**: Contains processed data and visualizations (e.g., "Gender", "Weekday", "Sheet5" sheets) for profit margins, revenue trends, and customer insights, supporting all dashboard analyses.
 
+![Data Model](https://github.com/Gaurav-tech229/Sales-Analytics/blob/main/Dashboards/model.png)
+
 ## Dashboard 1: Customer and Product Analysis
 
 ### Description
